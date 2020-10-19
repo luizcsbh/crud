@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": "12001.89"
     },
     {
       "id": 3,
@@ -16,9 +16,9 @@
       "price": 5000.89
     },
     {
-        "id": 4,
-        "name": "Impressora Laser",
-        "price": 324.89
+      "id": 4,
+      "name": "Impressora Laser",
+      "price": 324.89
     }
   ]
 }
